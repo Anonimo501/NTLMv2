@@ -14,10 +14,10 @@ Es un script que ejecuta responder el cual viene previamente instalado en Parrot
 
 ## Uso
 
-git clone https://github.com/Anonimo501/SambaRelay_V2.git
+git clone https://github.com/Anonimo501/NTLMv2.git
 
-cd SambaRelay_V2/
+cd NTLMv2/
 
-chmod +x SMB_Relay_v2.sh
+chmod +x NTLMv2.sh
 
-./SMB_Relay.sh
+./NTLMv2.sh
